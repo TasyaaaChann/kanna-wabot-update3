@@ -887,7 +887,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
           "title": msg,
           "description": des,
           "footerText": global.botdate,
-          "buttonText": "Kanna BOT",
+          "buttonText": "Ｔａｓｙａ BOT",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
@@ -912,7 +912,7 @@ Yuk Daftar Dulu Karena Anda Belum Terdaftar Dalam Database Bot
                                          "description": " List Group Official Kanna BOT",
                                          "rowId": ".gcbot"
                        }],
-                    "title": "Created By ℓettα - sαmα ♡"
+                    "title": "Created By Ｔａｓｙａ"
                   }
                         ], "contextInfo": 
                          { "stanzaId": m.key.id,
