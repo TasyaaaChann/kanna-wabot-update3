@@ -423,6 +423,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ✧
 ┬ 📮 *Note* :
 │ Tolong jangan dispam ya biar ga delay
+│ Kalau mau add bot gua ijin Ke Owner
 ╰━━━━━━━━━━━━━━━━┈─◂
      ▌│█║▌║▌║║▌║▌║█│▌
      
