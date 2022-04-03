@@ -131,7 +131,7 @@ let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../pac
     itemCount : 999,
     status: 1,
     surface : 1,
-    message: `©️ Created By ℓettα - sαmα`, 
+    message: `©️ Created By Ｔａｓｙａ`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: fs.readFileSync('./thumbnail.jpg'), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -168,6 +168,7 @@ let package = JSON.parse(await fs.promises.readFile(path.join(__dirname, '../pac
 ✧
 ┬ 📮 *Note* :
 │ Tolong jangan dispam ya biar ga delay
+│ Kalau Mau add bot gua ijin owner 
 ╰━━━━━━━━━━━━━━━━┈─◂
      ▌│█║▌║▌║║▌║▌║█│▌
      
@@ -181,7 +182,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
           "title": tkss.trim(),
           "description": 'Created By ℓetta - Sama'.trim(),
           "footerText": '📮 *Note:* Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner',
-          "buttonText": "Click Here!",
+          "buttonText": "LIST MENU",
           "listType": "SINGLE_SELECT",
           "sections": [
                             {
@@ -329,7 +330,7 @@ conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                                 }, {
                                 "rows": [{
                                 "title": "🎐 Creator",
-                                "description": "Pembuat kanna BOT",
+                                "description": "Pembuat Ｔａｓｙａ BOT",
                                 "rowId": ".nowner"
                                 }, {
                                 "title": "🗳️  Donasi",
