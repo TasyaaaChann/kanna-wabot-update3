@@ -449,9 +449,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 🌸 Users: ${totalreg}
 🌸 Database: Lowdb
 
-                「 *Ƙαnnα BOT あ⁩* 」`
+                「 *Ｔａｓｙａ⸙* 」`
 
-let ftt = `©️ Created By Letta - Sama`
+let ftt = `©️ Created By Ｔａｓｙａ`
     if (teks == '404') {
       return conn.send3ButtonLoc(m.chat, await (await fetch('https://telegra.ph/file/c73f47b440241b66cb9d3.jpg')).buffer(), tksk, ftt, 'COMMAND', '.simplemenu', 'DONASI', '.donasi', 'OWNER', '.nowner', m, { contextInfo: { mentionedJid: conn.parseMention(tksk)}})
   
@@ -542,7 +542,7 @@ let ftt = `©️ Created By Letta - Sama`
     //silahkan pilih salah satu..
     
     // BUTTON VIDEO
-    await conn.send2ButtonVid(m.chat, `${gifs()}`, text, '                   「 *Ƙαnnα BOT あ⁩* 」', 'OWNER', '.owner', '\n\nSAYA PEDO DAN SAYA BANGGA ÙnÚ', 'a', fkon, { contextInfo: { mentionedJid: conn.parseMention(text),
+    await conn.send2ButtonVid(m.chat, `${gifs()}`, text, '                   「 *Ｔａｓｙａ* 」', 'OWNER', '.owner', '\n\nSAYA PEDO DAN SAYA BANGGA ÙnÚ', 'a', fkon, { contextInfo: { mentionedJid: conn.parseMention(text),
         /*externalAdReply: {
             title: `${ucapan()}`,
             body: `${wktuwib}`,
