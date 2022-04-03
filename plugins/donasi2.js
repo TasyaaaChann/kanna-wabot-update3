@@ -5,11 +5,11 @@ let handler = async (m, { conn }) => {
 
 let str = `››╭─〘 *Donasi* 〙
 ╭╡
-│┝‷✧ *Pulsa:* 6285712420674
-│┝‷✧ *Dana:* 6285712420674
-│┝‷✧ *Linkaja:* 6285712420674
-│┝‷✧ *Gopay:* 6285712420674
-│┝‷✧ *Ovo:* 6285712420674
+│┝‷✧ *Pulsa:* 6283115192154
+│┝‷✧ *Dana:* 6283830815715
+│┝‷✧ *Linkaja:* 62xxx
+│┝‷✧ *Gopay:* 62xxx
+│┝‷✧ *Ovo:* 62xxx
 │╰───···─────
 │⁺◛˖ Ingin Donasi? Chat nomor dibawah
 ╰──────────···───╮`
